@@ -30,7 +30,7 @@ public class SpringRestServiceApplication {
 				new StudentResponse(7L, "Prabhas", "Shirke", "prabhas@gmail.com"),
 				new StudentResponse(8L, "Tina", "Kapoor", "tina@gmail.com"),
 				new StudentResponse(9L, "Mona", "Sharma", "mona@gmail.com"),
-				new StudentResponse(10L, "Rahul", "Varma", "rahul@gmail.com"));
+				new StudentResponse(10L, "Ratlam", "Varma", "rahul@gmail.com"));
 	}
 
 }
